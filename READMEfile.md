@@ -17,7 +17,7 @@ A machine learning-based web application to detect phishing links using a Random
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/phishing-link-detection.git
+   git clone https://github.com/ashwinil24/phishing-link-detection.git
   
 2. Navigate to the project folder:
    cd phishing-link-detection
