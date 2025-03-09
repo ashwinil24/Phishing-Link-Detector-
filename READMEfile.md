@@ -37,6 +37,10 @@ A machine learning-based web application to detect phishing links using a Random
 
 ## Screenshots
 ![Screenshot 2025-03-09 132651](https://github.com/user-attachments/assets/107bed61-d569-486b-b988-ae688f5751f6)
+![Screenshot 2025-03-09 132638](https://github.com/user-attachments/assets/0cd06ef6-f129-4031-8ed5-9750ca73d69d)
+![Screenshot 2025-03-09 132451](https://github.com/user-attachments/assets/3ae5b6fa-d0ea-4f97-b182-9c47a525c8ae)
+![Screenshot 2025-03-09 132404](https://github.com/user-attachments/assets/1aaeb3fb-7715-465b-9d00-086067e435ba)
+![Screenshot 2025-03-09 132346](https://github.com/user-attachments/assets/af2c61b2-4d1b-4df2-bd99-5b95cc7b3320)
 
 ## License
 This project is licensed under the MIT License.
